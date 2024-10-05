@@ -1,1 +1,2 @@
 # Email-Spam-Classifier
+This project implements a machine learning model designed to classify emails as either spam or not spam. It leverages natural language processing (NLP) techniques to analyze the content and metadata of emails, extracting relevant features such as word frequency and patterns. The classifier uses algorithms like Naive Bayes, Support Vector Machines, or other models to predict the likelihood of an email being spam, helping to filter unwanted messages and improve email management.
